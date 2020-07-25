@@ -1933,6 +1933,9 @@
 // NOTE: If the LCD is unresponsive you may need to reverse the plugs.
 //
 
+// Override the initial LCD contrast for the selected graphical display.
+//#define LCD_CONTRAST_INIT_OVERRIDE 155
+
 //
 // RepRapDiscount FULL GRAPHIC Smart Controller
 // http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller
